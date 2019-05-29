@@ -1,4 +1,4 @@
-package com.example.week6challenge;
+package com.example.demo;
 
 import com.cloudinary.utils.ObjectUtils;
 import org.springframework.beans.factory.annotation.Autowired;

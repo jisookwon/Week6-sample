@@ -1,4 +1,4 @@
-package com.example.week6challenge;
+package com.example.demo;
 
 import javax.persistence.*;
 import java.util.Set;

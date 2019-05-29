@@ -1,5 +1,5 @@
 
-        package com.example.week6challenge;
+        package com.example.demo;
 
         import javax.persistence.*;
         import javax.validation.constraints.Min;
